@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HomeWork
+namespace Lesson1
 {
     internal class Program
     {
@@ -14,7 +14,7 @@ namespace HomeWork
             string UserName = Console.ReadLine();
             DateTime MyData = new DateTime();
             MyData = DateTime.Now;
-            Console.WriteLine("Привет, {0}, сегодня {1}.", UserName, MyData.ToShortDateString());   // получам только дату
+            Console.WriteLine("Привет, {0}, сегодня {1}.", UserName, MyData.ToShortDateString());   // получаeм только дату
 
             Console.ReadLine();
         }
