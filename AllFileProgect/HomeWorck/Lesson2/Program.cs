@@ -62,7 +62,7 @@ namespace Lesson2
             {
                 int max = Convert.ToInt32(Tmax);
                 int min = Convert.ToInt32(Tmin);
-                double result = (double)(max + min) / 2;
+                double result = (double)(max - min) / 2 + min;
                 Temp = result;
                 Console.WriteLine("Среднесуточная температура = {0}", result);
             }

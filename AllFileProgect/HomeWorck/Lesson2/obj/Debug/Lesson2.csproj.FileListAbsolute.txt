@@ -6,11 +6,3 @@ C:\Users\sasha\source\repos\Lesson1\Lesson2\obj\Debug\Lesson2.csproj.SuggestedBi
 C:\Users\sasha\source\repos\Lesson1\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
 C:\Users\sasha\source\repos\Lesson1\Lesson2\obj\Debug\Lesson2.exe
 C:\Users\sasha\source\repos\Lesson1\Lesson2\obj\Debug\Lesson2.pdb
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\bin\Debug\Lesson2.exe.config
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\bin\Debug\Lesson2.exe
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\bin\Debug\Lesson2.pdb
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\obj\Debug\Lesson2.csproj.AssemblyReference.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\obj\Debug\Lesson2.csproj.SuggestedBindingRedirects.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\obj\Debug\Lesson2.csproj.CoreCompileInputs.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\obj\Debug\Lesson2.exe
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson2\obj\Debug\Lesson2.pdb
