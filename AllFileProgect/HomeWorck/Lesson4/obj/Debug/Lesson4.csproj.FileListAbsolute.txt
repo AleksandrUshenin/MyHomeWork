@@ -1,8 +1,8 @@
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\bin\Debug\Lesson4.exe.config
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\bin\Debug\Lesson4.exe
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\bin\Debug\Lesson4.pdb
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\obj\Debug\Lesson4.csproj.SuggestedBindingRedirects.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\obj\Debug\Lesson4.exe
-C:\Users\sasha\GitProgect\AllGitProgect\HomeWorck\MyHomeWork\AllFileProgect\HomeWorck\Lesson4\obj\Debug\Lesson4.pdb
+C:\Users\sasha\source\repos\Lesson1\Lesson4\obj\Debug\Lesson4.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\Lesson1\Lesson4\obj\Debug\Lesson4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\source\repos\Lesson1\Lesson4\obj\Debug\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\Lesson1\Lesson4\bin\Debug\Lesson4.exe.config
+C:\Users\sasha\source\repos\Lesson1\Lesson4\bin\Debug\Lesson4.exe
+C:\Users\sasha\source\repos\Lesson1\Lesson4\bin\Debug\Lesson4.pdb
+C:\Users\sasha\source\repos\Lesson1\Lesson4\obj\Debug\Lesson4.exe
+C:\Users\sasha\source\repos\Lesson1\Lesson4\obj\Debug\Lesson4.pdb

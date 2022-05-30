@@ -1,0 +1,112 @@
+ ├── Debug
+ │  ├── Exercise1
+ │  ├── Exercise2
+ │  ├── Exercise3
+ │  └── Exercise4
+ ├── bin
+ │  └── Debug
+ │    ├── Exercise1
+ │    ├── Exercise2
+ │    ├── Exercise3
+ │    └── Exercise4
+ ├── bin
+ │  └── Debug
+ │    ├── Exercise1
+ │    ├── Exercise2
+ │    ├── Exercise3
+ │    └── Exercise4
+ ├── Lesson5
+ │  ├── bin
+ │  │  └── Debug
+ │  │    ├── Exercise1
+ │  │    ├── Exercise2
+ │  │    ├── Exercise3
+ │  │    └── Exercise4
+ │  ├── obj
+ │  │  └── Debug
+ │  │    └── TempPE
+ │  └── Properties
+ ├── bin
+ │  └── Debug
+ │    ├── Exercise1
+ │    ├── Exercise2
+ │    ├── Exercise3
+ │    └── Exercise4
+ ├── Debug
+ │  ├── Exercise1
+ │  ├── Exercise2
+ │  ├── Exercise3
+ │  └── Exercise4
+ ├── Debug
+ │  ├── Exercise1
+ │  ├── Exercise2
+ │  ├── Exercise3
+ │  └── Exercise4
+ ├── Lesson5
+ │  ├── bin
+ │  │  └── Debug
+ │  │    ├── Exercise1
+ │  │    ├── Exercise2
+ │  │    ├── Exercise3
+ │  │    └── Exercise4
+ │  ├── obj
+ │  │  └── Debug
+ │  │    └── TempPE
+ │  └── Properties
+ ├── Lesson5
+ │  ├── bin
+ │  │  └── Debug
+ │  │    ├── Exercise1
+ │  │    ├── Exercise2
+ │  │    ├── Exercise3
+ │  │    └── Exercise4
+ │  ├── obj
+ │  │  └── Debug
+ │  │    └── TempPE
+ │  └── Properties
+ ├── Lesson5
+ │  ├── bin
+ │  │  ├── Debug
+ │  │  │  ├── Exercise1
+ │  │  │  ├── Exercise2
+ │  │  │  ├── Exercise3
+ │  │  │  └── Exercise4
+ │  │  └── Release
+ │  ├── obj
+ │  │  └── Debug
+ │  │    └── TempPE
+ │  └── Properties
+ ├── Debug
+ │  ├── Exercise1
+ │  ├── Exercise2
+ │  ├── Exercise3
+ │  └── Exercise4
+ ├── bin
+ │  ├── Debug
+ │  │  ├── Exercise1
+ │  │  ├── Exercise2
+ │  │  ├── Exercise3
+ │  │  ├── Exercise4
+ │  │  └── Exercise5
+ │  └── Release
+ ├── bin
+ │  ├── Debug
+ │  │  ├── Exercise1
+ │  │  ├── Exercise2
+ │  │  ├── Exercise3
+ │  │  ├── Exercise4
+ │  │  └── Exercise5
+ │  └── Release
+ ├── Lesson5
+ │  ├── bin
+ │  │  ├── Debug
+ │  │  │  ├── Exercise1
+ │  │  │  ├── Exercise2
+ │  │  │  ├── Exercise3
+ │  │  │  ├── Exercise4
+ │  │  │  └── Exercise5
+ │  │  └── Release
+ │  ├── obj
+ │  │  └── Debug
+ │  │    └── TempPE
+ │  └── Properties
