@@ -53,7 +53,7 @@ namespace Lesson4
             {
                 Console.WriteLine($"\t  User {i + 1}");
                 Console.Write("\tВведите Фамилию: ");
-                User[0] = Console.ReadLine();
+                User[0] = Console.ReadLine(); 
                 Console.Write("\tВведите Имя: ");
                 User[1] = Console.ReadLine();
                 Console.Write("\tВведите Отчество: ");
@@ -110,7 +110,7 @@ namespace Lesson4
         [Flags]
         enum Seasons
         {
-            Winter = 0b_1000_0000_0011,
+            Winter = 0b_1000_0000_0011, 
             Spring = 0b_0000_0001_1100,
             Summer = 0b_0000_1110_0000,
             Autumn = 0b_0111_0000_0000,
