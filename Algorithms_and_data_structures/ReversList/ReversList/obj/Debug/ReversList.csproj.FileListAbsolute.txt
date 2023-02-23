@@ -1,0 +1,6 @@
+G:\MyProgects\ReversList\ReversList\bin\Debug\ReversList.exe.config
+G:\MyProgects\ReversList\ReversList\bin\Debug\ReversList.exe
+G:\MyProgects\ReversList\ReversList\bin\Debug\ReversList.pdb
+G:\MyProgects\ReversList\ReversList\obj\Debug\ReversList.csprojResolveAssemblyReference.cache
+G:\MyProgects\ReversList\ReversList\obj\Debug\ReversList.exe
+G:\MyProgects\ReversList\ReversList\obj\Debug\ReversList.pdb
